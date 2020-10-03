@@ -1,0 +1,17 @@
+*{
+   background-color: rgb(216,228,255);
+}
+
+body h1{
+    position:relative;
+    top: 100px;
+    left:1000px;
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+body .im1{
+    position: relative;
+    top:100px;
+    left:1000px;
+
+}
